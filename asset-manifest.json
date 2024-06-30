@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pod/static/css/main.22a6498b.css",
+    "main.js": "/pod/static/js/main.d0485f32.js",
+    "index.html": "/pod/index.html",
+    "main.22a6498b.css.map": "/pod/static/css/main.22a6498b.css.map",
+    "main.d0485f32.js.map": "/pod/static/js/main.d0485f32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22a6498b.css",
+    "static/js/main.d0485f32.js"
+  ]
+}
